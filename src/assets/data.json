@@ -1,0 +1,35 @@
+{
+
+  "projects": [
+    {
+      "date": "07/08/2019",
+      "title": "Web for SCHOOL",
+      "description": "The department owns a static website for providing information to students about the student registeration and many more",
+      "url": "https://github.com/Avi-Ravi/school_website.git",
+      "imgSrc": "https://res.cloudinary.com/dlhb7c0gg/image/upload/v1691266411/p1_zonnby.png"
+    },
+    {
+      "date": "11/10/2021",
+      "title": "WEB for Department",
+      "description": "To developing dynamic website for the School Of Computer Science in Central University of Karnataka, Kadaganchi,      Kalaburagi.",
+      "url": "https://github.com/Avi-Ravi/SCs_CUK.git",
+      "imgSrc": "https://res.cloudinary.com/dlhb7c0gg/image/upload/v1691266680/p2_eb8emg.png"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "Attendance Report",
+      "description": "Essential attendance management; automate data capture, generate reports. Web app creates employee attendance reports within set timeframe.",
+      "url": "https://develearn-office-attendance-reports.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/dlhb7c0gg/image/upload/v1691267165/p3_a6eamr.png"
+    },
+    {
+      "date": "01/03/2023",
+      "title": "NextCampus~Blog",
+      "description": "Platform for writers to publish diverse blog posts, connecting with wider audience; offers personal and professional benefits.",
+      "url": "#",
+      "imgSrc": "https://res.cloudinary.com/dlhb7c0gg/image/upload/v1691317399/p4_dj1i0m.png"
+    }
+    
+  ]
+
+}
